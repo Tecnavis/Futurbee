@@ -1,1 +1,1 @@
-https://souravo.github.io/Futurbee-web/
+https://tecnavis.github.io/Futurbee/
